@@ -118,5 +118,9 @@ To Present 2 different UX project scenarios (e.g., designing a health app, an e-
 * Pain Points: Long checkout process and unclear return policies.
 * Motivation: Wants to save time and get quality clothes without visiting stores.
 ```
+<img width="392" height="581" alt="image" src="https://github.com/user-attachments/assets/a870a762-f08a-4bef-a0c8-f9f07d3940fa" /><img width="307" height="595" alt="image" src="https://github.com/user-attachments/assets/5001de88-b8ce-4e1b-8271-ec525955aee2" />
+
+
+
 ## Result:
 The presentation of two different UX scenarios is successfully completed and verified.
